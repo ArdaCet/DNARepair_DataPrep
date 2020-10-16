@@ -8,3 +8,4 @@ This directory was created to put necessary scripts and pipelines which had been
 Keep in midn that anything uploaded here are particularly developed for specific purposes not for general usage.
 
 ## This directory is no longer used. If you need more reliable codes you may want to visit my another repository which is now private but going to be published soon.
+###### Reach me: hankmercer2@gmail.com
